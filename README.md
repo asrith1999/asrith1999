@@ -1,4 +1,4 @@
-# 👋 Hi, I'm SM.Asrith <img width="507" height="648" alt="Asrith png" src="https://github.com/user-attachments/assets/793eb049-33cf-4a3f-8408-2972bcc59f8d" />
+# 👋 Hi, I'm SM.Asrith ![AdobeStock_579329988_Preview](https://github.com/user-attachments/assets/215c551c-e2b7-4007-a8b4-1eeaa4a98ac9)
 
 
 
