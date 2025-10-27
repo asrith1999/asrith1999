@@ -3,8 +3,7 @@
 
 
 ## 🌐 About Me
-I'm a passionate Network Engineer with hands-on experience in designing, securing, and optimizing enterprise-grade networks. I specialize in making complex systems reliable, scalable, and secure.
-
+I'm a beginar Network Engineer with hands-on experience in designing, securing(CyberSecurity), and optimizing enterprise-grade networks. I specialize in making complex systems reliable, scalable, and secure.
 ## 🛠️ What I Work On
 - 🔧 Currently configuring: Cisco routers, firewalls, and VLAN setups
 - 📡 Learning: SD-WAN, network automation with Python & Ansible
@@ -26,8 +25,14 @@ I'm a passionate Network Engineer with hands-on experience in designing, securin
 - 💼 LinkedIn: https://www.linkedin.com/in/siththik-muhammed-asrith-510736363
 - 🌍 Portfolio: prograssing
 
+##📄 Download My Resume
+ [Muhammed Asrith.pdf](https://github.com/user-attachments/files/23173199/Muhammed.Asrith.pdf)
+
+ 
 ## ⚡ Fun Fact
 I once traced a rogue DHCP server using only Wireshark and a cup of coffee ☕.
+And create one Simple pong game
+
 
 
 <!---
