@@ -2,23 +2,73 @@
 
 
 
-## 🌐 About Me
-I'm a beginar Network Engineer with hands-on experience in designing, securing(CyberSecurity), and optimizing enterprise-grade networks. I specialize in making complex systems reliable, scalable, and secure.
-## 🛠️ What I Work On
-- 🔧 Currently configuring: Cisco routers, firewalls, and VLAN setups
-- 📡 Learning: SD-WAN, network automation with Python & Ansible
-- 🧩 Open to: Collaborations on network design, security audits, and automation projects
+# 👋 Hi, I'm Asrith
 
-## 🧠 Skills Snapshot
-- Protocols: TCP/IP, BGP, OSPF, MPLS
-- Tools: Wireshark, GNS3, Cisco Packet Tracer, SolarWinds
-- Certifications: CCNA | CCNP (in progress)
-- Automation: Python scripting for config backups and log parsing
+🔐 **Cybersecurity Enthusiast | SOC Analyst (Intern / Junior) | Security Testing Learner**
 
-## 📈 Achievements
-- 🏆 Reduced network downtime by 40% through proactive monitoring
-- 🔐 Implemented firewall rules that blocked 95% of malicious traffic
-- 📊 Designed a campus-wide VLAN architecture for 500+ users
+I am a motivated cybersecurity learner with hands-on experience in **security monitoring, vulnerability assessment, and ethical hacking fundamentals**.  
+I enjoy building **security tools**, analyzing threats, and learning how attackers think to improve defenses.
+
+---
+
+## 🛡️ Core Cybersecurity Skills
+
+- 🔍 Security Monitoring & Log Analysis (Basics)
+- 🧪 Web Application Security Testing (OWASP Top 10)
+- 🚨 Incident Detection & Response (Foundational)
+- 🌐 Networking Fundamentals (TCP/IP, DNS, Ports)
+- 🐍 Python for Cybersecurity Automation
+- 🐧 Kali Linux & Windows Security Tools
+- 📄 Security Documentation & Reporting
+
+---
+
+## 🔧 Tools & Technologies
+
+- Python
+- OWASP Top 10
+- Nmap (Basic)
+- Burp Suite (Beginner)
+- Wireshark (Basic)
+- Git & GitHub
+- Linux (Kali) / Windows
+- HTTP / HTTPS / DNS
+
+---
+
+## 📌 Featured Cybersecurity Projects
+
+### 🔐 Web Application Vulnerability Scanner
+- Python-based security scanner aligned with **OWASP Top 10**
+- Detects SQL Injection, XSS, insecure HTTP headers, and open ports
+- Implements URL validation and DNS-safe hostname extraction
+- Built for ethical and educational security testing
+
+➡️ **Repository:** `web-application-vulnerability-scanner`
+
+---
+
+## 📚 Currently Learning
+
+- SOC Operations & Blue Team Fundamentals
+- MITRE ATT&CK Framework
+- Log Analysis & SIEM Basics
+- Threat Detection Techniques
+- Secure Coding Practices
+
+---
+
+## 🎯 Career Objective
+
+To start my career as a **SOC Analyst / Cybersecurity Intern**, where I can contribute to monitoring, detecting, and responding to security incidents while continuously improving my technical skills.
+
+---
+
+## ⚠️ Disclaimer
+
+All security projects and tools shared here are created **strictly for educational and authorized testing purposes only**.
+
+---
 
 ## 📫 Let's Connect
 - 📧 Email: mohamedasrith118@gmail.com
@@ -34,6 +84,7 @@ I'm a beginar Network Engineer with hands-on experience in designing, securing(C
 I once traced a rogue DHCP server using only Wireshark and a cup of coffee ☕.
 And create one Simple pong game
 
+⭐ Feel free to explore my repositories and provide feedback!
 
 
 <!---
