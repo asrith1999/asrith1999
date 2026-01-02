@@ -26,7 +26,8 @@ I'm a beginar Network Engineer with hands-on experience in designing, securing(C
 - 🌍 Portfolio: prograssing
 
 ##📄 Download My Resume
- [Muhammed Asrith.pdf](https://github.com/user-attachments/files/23173199/Muhammed.Asrith.pdf)
+[Asrith_muhammed_CS.pdf](https://github.com/user-attachments/files/24410729/Asrith_muhammed_CS.pdf)
+
 
  
 ## ⚡ Fun Fact
