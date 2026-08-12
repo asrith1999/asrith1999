@@ -4,10 +4,12 @@
 
 # 👋 Hi, I'm Asrith
 
-🔐 **Cybersecurity Enthusiast | SOC Analyst (Intern / Junior) | Security Testing Learner**
+🔐 **Cybersecurity | Software Engineer**
 
-I am a motivated cybersecurity learner with hands-on experience in **security monitoring, vulnerability assessment, and ethical hacking fundamentals**.  
-I enjoy building **security tools**, analyzing threats, and learning how attackers think to improve defenses.
+
+Motivated and passionate Software Developer with hands-on experience in application development and Learning Management System (LMS) development at Techzaaz. Strong knowledge of software development, application design, databases, networking, and Linux environments. Experienced in developing user-focused software solutions and troubleshooting technical issues.
+
+Passionate about mobile application development and building modern, responsive, and user-friendly applications. Additional technical knowledge includes Kali Linux, computer networking, cybersecurity fundamentals, web technologies, databases, and software engineering. Creative, responsible, adaptable, and committed to learning new technologies.
 
 ---
 
@@ -60,7 +62,7 @@ I enjoy building **security tools**, analyzing threats, and learning how attacke
 
 ## 🎯 Career Objective
 
-To start my career as a **SOC Analyst / Cybersecurity Intern**, where I can contribute to monitoring, detecting, and responding to security incidents while continuously improving my technical skills.
+To start my career as a **SOC Analyst / Cybersecurity **, where I can contribute to monitoring, detecting, and responding to security incidents while continuously improving my technical skills.
 
 ---
 
